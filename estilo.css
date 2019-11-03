@@ -1,0 +1,235 @@
+
+*{
+
+margin:0;
+padding: 0;
+
+}
+
+
+.divCabecera{
+
+
+	width:80%;
+	height: 70px;
+
+	margin:auto;	
+
+
+}
+
+
+.divImaCabecera{
+
+	width: 40%;
+	height: 70px;
+
+	float: left;
+}
+
+.divIconosCabecera{
+
+width: 30%;
+height: 70px;
+
+float: right;
+text-align: right;
+}
+
+
+.menu{
+
+	width: 100%;
+	height: 40px;
+	background: #004669;
+
+}
+
+.divMenu{
+
+width: 50%;
+height: 40px;
+background: #004669;
+float: right;
+}
+
+
+.contenedorInicio{
+
+
+width: 1080px;
+height: 800px;
+
+
+margin: auto;
+margin-top: 20px;
+
+}
+
+
+.bannerIzquierda{
+width: 320px;
+height: 800px;
+float: right;
+
+}
+
+
+
+#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#004669;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+
+
+
+
+
+
+.divTextoInicioC{
+
+	width: 100%;
+	height: 300px;
+
+
+}
+
+
+.divTextoInicioD{
+
+	width: 70%;
+	height: auto;
+	float: left;
+	
+	margin:auto;
+	text-align: center;
+
+	
+}
+
+
+.divPie{
+
+
+	 position: relative;
+            /* Altura total del footer en px con valor negativo */
+            margin-top: -50px;
+            /* Altura del footer en px. Se han restado los 5px del margen
+               superior mas los 5px del margen inferior
+            */
+            height: 50px;
+            padding:5px 0px;
+            clear: both;
+            background: #004669;
+            text-align: center;
+            color: #fff;
+}
+
+.contenedorPie{
+
+
+	width: 80%;
+	margin:auto;
+	margin left: 20%;
+
+}
+
+
+
+.imagenPie{
+
+	float: left;
+	width: 20%;
+	height: 50px;
+	
+}
+
+.textPie{
+
+	float: right;
+	width: 70%;
+	font-size: 14px;
+
+}
+
+.formatoTexto1 h1{
+
+	color:black;
+	font-family: fantasy;
+	margin-top: 20px;
+
+
+}
+
+.formatoTexto1 p{
+
+	text-align: justify;
+	margin-top: 30px;
+
+}
+
+
+.formatoTexto2 {
+
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 30px;
+
+}
+
+
+.formatoTexto3{
+
+text-align: left;
+
+
+}
+
+.formatoTexto3 ol li{
+
+
+
+
+
+
+}
